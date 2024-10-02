@@ -1,0 +1,7 @@
+Grupo 2
+
+ - Duas ligações entre as entidades Teacher e Projects
+ - Duas ligacões entre as entidades Teacher e Department
+ - Ligação entre Postgraduate_students e Senior Student quando sendo apenas 1 por aluno, poderia ser apenas colocado um atributo representativo do id do aluno sénior
+
+Pontuação: 65/100
