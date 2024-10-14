@@ -30,6 +30,7 @@ public class InvoiceTest {
         boolean result = instance.equals(obj);
         assertEquals(expResult, result);
     }
+
     /**
      * Test of equals method, of class Invoice.
      */
